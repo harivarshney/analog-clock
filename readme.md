@@ -3,6 +3,9 @@
 ## Overview
 This Analog Clock is a web-based application that displays the current time using an analog clock interface. The clock is built using HTML, CSS, and JavaScript, providing a functional and visually appealing representation of time.
 
+## Screenshot
+![Screenshot 2024-07-09 222232](https://github.com/harivarshney/analog-clock/assets/152633609/7809ded1-e7c0-4e30-9edd-cc47ec17ac54)
+
 ## Features
 - **Real-time Clock:** Continuously updates to show the current time accurately.
 - **Analog Interface:** Traditional clock design with hour, minute, and second hands.
